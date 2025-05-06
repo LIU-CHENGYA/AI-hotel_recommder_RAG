@@ -19,9 +19,8 @@
 ##  專案結構
 
 - `main.py`：主程式邏輯
-- `langchain_agent.py`：LangChain 對話代理人模組
-- `data/hotels.json`：台灣飯店資料（可使用開放資料來源）
-- `notebook/demo.ipynb`：Colab 上的示範版本
+- `打造虛擬的住宿資料.ipynb`：打造台灣飯店資料（可使用開放資料來源）
+- `台灣飯店推薦RAG_系統.ipynb`：Colab 上的示範版本
 
 ##  Demo 示範
 
