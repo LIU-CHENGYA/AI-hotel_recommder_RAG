@@ -18,10 +18,10 @@
 
 ##  專案結構
 
-- `main.py`：主程式邏輯
+- `README.md`：專案說明
 - `打造虛擬的住宿資料.ipynb`：打造台灣飯店資料（可使用開放資料來源）
 - `建立向量資料庫.ipynb`:建立向量資料庫
-- `台灣飯店推薦RAG_系統.ipynb`：Colab 上的示範版本( GitHub 無法預覽 notebook，但仍還是能夠在 Colab 上透過下方連結正常執行)
+- `台灣飯店推薦RAG_系統.ipynb`：主程式、在Colab 上的示範版本( GitHub 無法預覽 notebook，但仍還是能夠在 Colab 上透過下方連結正常執行)
 
 ##  Demo 示範
 
